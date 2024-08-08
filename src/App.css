@@ -1,38 +1,89 @@
-.App {
-  text-align: center;
+/* .header {
+  display:flex;
+  background-color: #222020;
+  padding: 20px 10px;
+  justify-content:space-between;
+  border:2px solid red;
+}
+.logo-icon img{
+  width:80px;
+  
+}
+.navbar-items > a{
+  padding :10px 20px;
+  margin:10px;
+  color:white;
+  float:left;
+  font-size:20px;
+  text-decoration: none;
+  
+}
+.res-container{
+  display:flex;
+  flex-wrap:wrap;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.restro-card:hover{
+  cursor:pointer;
+  border:2px solid black;
+}
+.restro-card{
+  margin :8px;
+  padding:5px;
+  width:200px;
+  
+  border:1px solid black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.food-logo{
+  width:100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.search{
+  padding:5px;
+}
+
+.search-btn{
+  padding:5px;
+  cursor:pointer;
+  background-color:deepskyblue;
+  color:white;
+  border:1px solid black;
+}
+
+.shimmer-container{
+display: flex;
+flex-wrap: wrap;
+}
+.shimmer-card{
+  width:200px ;
+  height: 350px;
+  background-color:#F6F6F6;
+  margin: 10px;
+  
+}
+.login-btn{
+  background-color:skyblue;
   color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 2px;
+  cursor: pointer;
+
 }
 
-.App-link {
-  color: #61dafb;
+.top-filter{
+  display: flex;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.link {
+  color: black;
+  text-decoration: none;
 }
+.link:hover {
+  color: #00F
+} */
